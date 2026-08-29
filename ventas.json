@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1001,
+    "id_usuario": 1,
+    "fecha": "2026-08-21",
+    "total": 1800,
+    "dirección": "Calle Ejemplo 101, Córdoba",
+    "productos": [101, 104],
+    "pagada": true
+  },
+  {
+    "id": 1002,
+    "id_usuario": 2,
+    "fecha": "2026-08-22",
+    "total": 2100,
+    "dirección": "Calle Ejemplo 202, Córdoba",
+    "productos": [102, 106],
+    "pagada": true
+  },
+  {
+    "id": 1003,
+    "id_usuario": 3,
+    "fecha": "2026-08-23",
+    "total": 1300,
+    "dirección": "Calle Ejemplo 303, Córdoba",
+    "productos": [103, 105],
+    "pagada": false
+  },
+  {
+    "id": 1004,
+    "id_usuario": 4,
+    "fecha": "2026-08-24",
+    "total": 2700,
+    "dirección": "Calle Ejemplo 404, Córdoba",
+    "productos": [101, 102, 104],
+    "pagada": true
+  },
+  {
+    "id": 1005,
+    "id_usuario": 5,
+    "fecha": "2026-08-25",
+    "total": 1600,
+    "dirección": "Calle Ejemplo 505, Córdoba",
+    "productos": [105, 106],
+    "pagada": false
+  },
+  {
+    "id": 1006,
+    "id_usuario": 6,
+    "fecha": "2026-08-26",
+    "total": 3000,
+    "dirección": "Calle Ejemplo 606, Córdoba",
+    "productos": [102, 103, 106],
+    "pagada": true
+  }
+]

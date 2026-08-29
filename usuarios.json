@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Gómez",
+    "email": "ana.gomez@example.com",
+    "contraseña": "clave_demo_01",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Bruno",
+    "apellido": "López",
+    "email": "bruno.lopez@example.com",
+    "contraseña": "clave_demo_02",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "Carla",
+    "apellido": "Martínez",
+    "email": "carla.martinez@example.com",
+    "contraseña": "clave_demo_03",
+    "activo": false
+  },
+  {
+    "id": 4,
+    "nombre": "Diego",
+    "apellido": "Fernández",
+    "email": "diego.fernandez@example.com",
+    "contraseña": "clave_demo_04",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Elena",
+    "apellido": "Romero",
+    "email": "elena.romero@example.com",
+    "contraseña": "clave_demo_05",
+    "activo": true
+  },
+  {
+    "id": 6,
+    "nombre": "Facundo",
+    "apellido": "Pérez",
+    "email": "facundo.perez@example.com",
+    "contraseña": "clave_demo_06",
+    "activo": false
+  }
+]
