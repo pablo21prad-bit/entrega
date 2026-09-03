@@ -1,6 +1,6 @@
 [
   {
-    "id": 101,
+    "id_producto": 101,
     "nombre": "Discos de empanadas N.º 12",
     "desc": "Paquete de 12 discos de empanadas tamaño 12",
     "precio": 850,
@@ -8,7 +8,7 @@
     "disponible": true
   },
   {
-    "id": 102,
+    "id_producto": 102,
     "nombre": "Discos de empanadas N.º 14",
     "desc": "Paquete de 12 discos de empanadas tamaño 14",
     "precio": 900,
@@ -16,7 +16,7 @@
     "disponible": true
   },
   {
-    "id": 103,
+    "id_producto": 103,
     "nombre": "Discos de empanadas N.º 15",
     "desc": "Paquete de 12 discos de empanadas tamaño 15",
     "precio": 900,
@@ -24,7 +24,7 @@
     "disponible": true
   },
   {
-    "id": 104,
+    "id_producto": 104,
     "nombre": "Tapa para pascualina",
     "desc": "Paquete con dos tapas para pascualina",
     "precio": 950,
@@ -32,7 +32,7 @@
     "disponible": true
   },
   {
-    "id": 105,
+    "id_producto": 105,
     "nombre": "Pan de lomo",
     "desc": "Pan de lomo artesanal de 18 centímetros",
     "precio": 400,
@@ -40,7 +40,7 @@
     "disponible": false
   },
   {
-    "id": 106,
+    "id_producto": 106,
     "nombre": "Prepizza",
     "desc": "Prepizza artesanal lista para completar y hornear",
     "precio": 1200,

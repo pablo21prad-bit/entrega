@@ -1,6 +1,6 @@
 [
   {
-    "id": 1001,
+    "id_venta": 1001,
     "id_usuario": 1,
     "fecha": "2026-08-21",
     "total": 1800,
@@ -9,7 +9,7 @@
     "pagada": true
   },
   {
-    "id": 1002,
+    "id_venta": 1002,
     "id_usuario": 2,
     "fecha": "2026-08-22",
     "total": 2100,
@@ -18,7 +18,7 @@
     "pagada": true
   },
   {
-    "id": 1003,
+    "id_venta": 1003,
     "id_usuario": 3,
     "fecha": "2026-08-23",
     "total": 1300,
@@ -27,7 +27,7 @@
     "pagada": false
   },
   {
-    "id": 1004,
+    "id_venta": 1004,
     "id_usuario": 4,
     "fecha": "2026-08-24",
     "total": 2700,
@@ -36,7 +36,7 @@
     "pagada": true
   },
   {
-    "id": 1005,
+    "id_venta": 1005,
     "id_usuario": 5,
     "fecha": "2026-08-25",
     "total": 1600,
@@ -45,7 +45,7 @@
     "pagada": false
   },
   {
-    "id": 1006,
+    "id_venta": 1006,
     "id_usuario": 6,
     "fecha": "2026-08-26",
     "total": 3000,
