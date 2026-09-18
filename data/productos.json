@@ -43,7 +43,7 @@
     "id_producto": 106,
     "nombre": "Prepizza",
     "desc": "Prepizza artesanal lista para completar y hornear",
-    "precio": 1200,
+    "precio": 0,
     "imagen": "imagenes/prepizza.jpg",
     "disponible": true
   }

@@ -1,50 +1,66 @@
 [
   {
     "id_usuario": 1,
-    "nombre": "Ana",
+    "user": "Ana",
     "apellido": "Gómez",
     "email": "ana.gomez@example.com",
-    "contraseña": "clave_demo_01",
+    "pass": "clave01",
     "activo": true
   },
   {
     "id_usuario": 2,
-    "nombre": "Bruno",
+    "user": "Bruno",
     "apellido": "López",
     "email": "bruno.lopez@example.com",
-    "contraseña": "clave_demo_02",
+    "pass": "clave02",
     "activo": true
   },
   {
     "id_usuario": 3,
-    "nombre": "Carla",
+    "user": "Carla",
     "apellido": "Martínez",
     "email": "carla.martinez@example.com",
-    "contraseña": "clave_demo_03",
+    "pass": "clave03",
     "activo": false
   },
   {
     "id_usuario": 4,
-    "nombre": "Diego",
+    "user": "Diego",
     "apellido": "Fernández",
     "email": "diego.fernandez@example.com",
-    "contraseña": "clave_demo_04",
+    "pass": "clave04",
     "activo": true
   },
   {
     "id_usuario": 5,
-    "nombre": "Elena",
+    "user": "Elena",
     "apellido": "Romero",
     "email": "elena.romero@example.com",
-    "contraseña": "clave_demo_05",
+    "pass": "clave05",
     "activo": true
   },
   {
     "id_usuario": 6,
-    "nombre": "Facundo",
+    "user": "Facundo",
     "apellido": "Pérez",
     "email": "facundo.perez@example.com",
-    "contraseña": "clave_demo_06",
+    "pass": "clave06",
+    "activo": false
+  },
+  {
+    "id_usuario": 8,
+    "user": "Lucía",
+    "apellido": "Herrera",
+    "email": "lucia.herrera@example.com",
+    "pass": "clave08",
+    "activo": false
+  },
+  {
+    "id_usuario": 9,
+    "user": "Martín",
+    "apellido": "Acosta",
+    "email": "martin.acosta@example.com",
+    "pass": "clave09",
     "activo": false
   }
 ]
