@@ -1,6 +1,9 @@
 import  {Router} from "express"
 import { readFile, writeFile } from  "fs/promises";
 
+const fileVentas = await readFile('./data/ventas.json', 'utf-8')
+const ventas = JSON.parse(fileVentas)
+
 
 const fileUser = await readFile('./data/users.json', 'utf-8');
 const users = JSON.parse(fileUser);
@@ -20,7 +23,14 @@ if (result) {
 })
 
 router.delete('/delete/:id', (req, res) => {
-const id = req.params.id;
+
+    const id = req.params.id;
+    if (ventas.some(venta => venta.id_usuario == id)) {
+    return res.status(409).json({
+      message: 'El usuario tiene ventas'
+    });
+  }
+
 const index = users.findIndex(user => user.id_usuario == id);
 if (index !== -1) {
   users.splice(index, 1);
